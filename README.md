@@ -57,5 +57,5 @@ Ensure that the image used in the application (`img1.png`) is located at the spe
 This project is for educational purposes only and is not intended for commercial use. Feel free to modify and extend the application.
 
 ## Contact
-For queries or collaboration, contact [Your Name] at [Your Email Address].
+For queries or collaboration, contact [MURALI SAI V] at [mv8039@srmist.edu.in].
 
